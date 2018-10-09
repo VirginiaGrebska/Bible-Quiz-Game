@@ -1,0 +1,29 @@
+﻿using UnityEngine;
+using UnityEngine.UI;
+using System.Collections;
+
+//Този клас управлява резултата на играта и я визуализира
+public class ScoreManager : MonoBehaviour
+{
+    public static int score = 0;        // The player's score.
+
+
+    Text text;                      // Reference to the Text component.
+
+    void Awake()
+    {
+        // Set up the reference.
+        text = GetComponent<Text>();
+
+        // Reset the score.
+     
+    }
+
+    void Update()
+    {
+        // Set the displayed text to be the word "Score" followed by the score value.
+        text.text = "" + score;
+    }
+
+       
+}

@@ -1,0 +1,92 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M (ID=0x1347)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\eDriven.Animation.dll (this message is harmless)
+Loading C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\eDriven.Animation.dll into Unity Child Domain
+Platform assembly: C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\eDriven.Audio.dll (this message is harmless)
+Loading C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\eDriven.Audio.dll into Unity Child Domain
+Platform assembly: C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\eDriven.Core.dll (this message is harmless)
+Loading C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\eDriven.Core.dll into Unity Child Domain
+Platform assembly: C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\eDriven.Gui.Designer.dll (this message is harmless)
+Loading C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\eDriven.Gui.Designer.dll into Unity Child Domain
+Platform assembly: C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\eDriven.Gui.dll (this message is harmless)
+Loading C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\eDriven.Gui.dll into Unity Child Domain
+Platform assembly: C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\eDriven.Networking.dll (this message is harmless)
+Loading C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\eDriven.Networking.dll into Unity Child Domain
+Platform assembly: C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\JsonFx.Json.dll (this message is harmless)
+Loading C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\JsonFx.Json.dll into Unity Child Domain
+- Completed reload, in  0.327 seconds
+Platform assembly: C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on SystemManagerInvoker
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1656)
+
+UnloadTime: 1.154666 ms
+Platform assembly: C:\xampp\htdocs\Holy Bible Quiz\HBQ_Data\Managed\System.Xml.dll (this message is harmless)
+Exception: Module ID cannot be empty
+  at A.c38950c25b1bb774e826daac00ffc152a.c40afd91e2a04cd50f4f0abcb6ab98e1c () [0x00000] in <filename unknown>:0 
+  at A.c86b3dce88db71394a5f58df9be66091b.cba5c06e42757c463f1ded5cb47c1b85d () [0x00000] in <filename unknown>:0 
+  at A.c6213c3d93eb78bf349a6ee19f87cc742.c3f4123515616670017bc38d5a4755cb9 () [0x00000] in <filename unknown>:0 
+  at eDriven.Gui.Styles.eDrivenStyleSheet.OnEnable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Scene 'quest2' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 532)
+
+Scene 'menu' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 532)
+
+Scene 'menu' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 532)
+
+Scene 'menu' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 532)
+
+Scene 'menu' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 532)
+
+Scene 'menu' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 532)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3870 -> priority: 1 

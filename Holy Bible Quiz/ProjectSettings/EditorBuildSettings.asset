@@ -1,0 +1,283 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/menu.unity
+    guid: 8678f5660216f494d88c36a3f2b8377c
+  - enabled: 1
+    path: Assets/Themes.unity
+    guid: 2a65d5420c3ec3d44aa09d287db39787
+  - enabled: 1
+    path: Assets/SubThemes.unity
+    guid: 816047e5aedc86d4aa34d2c6e2c6d454
+  - enabled: 1
+    path: Assets/SubThemesNewLife.unity
+    guid: 378c6e36ae7a77142b9661488d5eb483
+  - enabled: 1
+    path: Assets/Levels/Level1/creation.unity
+    guid: 501fc4af840d65c4b89baaf245f05200
+  - enabled: 1
+    path: Assets/Levels/Level1/creation1.unity
+    guid: 34705357f9da94049931b1eb889492f9
+  - enabled: 1
+    path: Assets/Levels/Level2/thesin.unity
+    guid: 068291d41f39c7540b4a8ef4e34d1ec5
+  - enabled: 1
+    path: Assets/Levels/Level2/thesin1.unity
+    guid: d2874822a14e3ea45b2e721fc9d243b4
+  - enabled: 1
+    path: Assets/Levels/Level3/salvation.unity
+    guid: 19496515514c0ea42869c194c65db6e2
+  - enabled: 1
+    path: Assets/Levels/Level3/salvation1.unity
+    guid: 2c9d57fe9a0ca4246ac6d6c88f4d3a5d
+  - enabled: 1
+    path: Assets/Levels/Level1/1.unity
+    guid: cf4f4c4eeee7fae4daf445d58af23ded
+  - enabled: 1
+    path: Assets/Levels/Level1/2.unity
+    guid: 9e4c8c942d1ba194ab2f3767c8509fee
+  - enabled: 1
+    path: Assets/Levels/Level1/3.unity
+    guid: 364ad3c72d9975444a34c675a6bb98cf
+  - enabled: 1
+    path: Assets/Levels/Level1/4.unity
+    guid: 02db0d7262f0e2f479969af35eb9b4f8
+  - enabled: 1
+    path: Assets/Levels/Level1/5.unity
+    guid: 60b8f59d8069e7149a423ed2afedd975
+  - enabled: 1
+    path: Assets/Levels/Level1/6.unity
+    guid: 9e1f3350b6b201247a4a25f291916eaf
+  - enabled: 1
+    path: Assets/Levels/Level1/7.unity
+    guid: 5fe53ac90c841f745a8a8305b063669c
+  - enabled: 1
+    path: Assets/Levels/Level1/8.unity
+    guid: cba81b4d44f10f84db87b4ae631ea7cd
+  - enabled: 1
+    path: Assets/Levels/Level1/9.unity
+    guid: 7e9f21e2898679a4b9e9369bd8992af8
+  - enabled: 1
+    path: Assets/Levels/Level1/10.unity
+    guid: bd59077258a01224c8a8d6e5e0b4410c
+  - enabled: 1
+    path: Assets/Levels/Level1/11.unity
+    guid: 02e9ba83c8df7a444ab1dfda2b4bda21
+  - enabled: 1
+    path: Assets/Levels/Level1/12.unity
+    guid: 3d60b4da246afe64f93fe9296c14d211
+  - enabled: 1
+    path: Assets/Levels/Level1/13.unity
+    guid: 5fa44343a269d1d4697a2ab15f029a6c
+  - enabled: 1
+    path: Assets/Levels/Level1/14.unity
+    guid: 9676f6e372fec164592acdb06ac633ba
+  - enabled: 1
+    path: Assets/Levels/Level2/1.unity
+    guid: db6cbb51960e900488f1ba21a4ecf106
+  - enabled: 1
+    path: Assets/Levels/Level2/2.unity
+    guid: facb659517cb3094aa885bb54d2733c4
+  - enabled: 1
+    path: Assets/Levels/Level2/3.unity
+    guid: 9134abe953b4fc14cbcf67466e731ae1
+  - enabled: 1
+    path: Assets/Levels/Level2/4.unity
+    guid: 8822c2dd75d97354a9a453e650c22aca
+  - enabled: 1
+    path: Assets/Levels/Level2/5.unity
+    guid: 2f9ef02200ed6304d8a9c77abcc631d0
+  - enabled: 1
+    path: Assets/Levels/Level2/6.unity
+    guid: d085f1929159f3243a3543144761f6ea
+  - enabled: 1
+    path: Assets/Levels/Level2/7.unity
+    guid: 6795adc50068ee54f8ed5d91e2126e95
+  - enabled: 1
+    path: Assets/Levels/Level2/8.unity
+    guid: 8091f25010a21a446b8b412b2e821f63
+  - enabled: 1
+    path: Assets/Levels/Level2/9.unity
+    guid: 8f2b40e3e0c1964488a31429fd5110e7
+  - enabled: 1
+    path: Assets/Levels/Level2/10.unity
+    guid: e209ee4d075db804e99c77cd1aebb5ef
+  - enabled: 1
+    path: Assets/Levels/Level2/11.unity
+    guid: fce25594e0060b649aa19c4863229e84
+  - enabled: 1
+    path: Assets/Levels/Level2/12.unity
+    guid: 47d80bedf7385404991961902c966eeb
+  - enabled: 1
+    path: Assets/Levels/Level2/13.unity
+    guid: 0bd2cc9bc63ca7c409c5b67e3bcdbdfe
+  - enabled: 1
+    path: Assets/Levels/Level2/14.unity
+    guid: 7a21b23b32a866141b120a2853f2e02e
+  - enabled: 1
+    path: Assets/Levels/Level3/1.unity
+    guid: d8669b2d15f29d74abb640073ceb6906
+  - enabled: 1
+    path: Assets/Levels/Level3/2.unity
+    guid: f6edf8b43079e1d4cb41d4428186132b
+  - enabled: 1
+    path: Assets/Levels/Level3/3.unity
+    guid: 6a12580f11a87964cb87976ecff2af21
+  - enabled: 1
+    path: Assets/Levels/Level3/4.unity
+    guid: 2222fcfe9fa0fc4498e36b2697effe7b
+  - enabled: 1
+    path: Assets/Levels/Level3/5.unity
+    guid: 500412e52f0b40a4c82d12fba7c4a2eb
+  - enabled: 1
+    path: Assets/Levels/Level3/6.unity
+    guid: 635f1a0c740bbdc42b831acc6137d960
+  - enabled: 1
+    path: Assets/Levels/Level3/7.unity
+    guid: 9496f922e6f0cc140a9e7807029bf927
+  - enabled: 1
+    path: Assets/Levels/Level3/8.unity
+    guid: b32e24908a984df43ab6151d347c1bb9
+  - enabled: 1
+    path: Assets/Levels/Level3/9.unity
+    guid: 43e992851407f2246ae8f220a1645d5a
+  - enabled: 1
+    path: Assets/Levels/Level3/10.unity
+    guid: 99afc95456e1ebf48b542e8723c1311b
+  - enabled: 1
+    path: Assets/Levels/Level3/11.unity
+    guid: aeb8332fc2699954390e33d0e6ef3f5a
+  - enabled: 1
+    path: Assets/Levels/Level3/12.unity
+    guid: 2cb04960ef8f5d74392606bca5c9f9cf
+  - enabled: 1
+    path: Assets/Levels/Level3/13.unity
+    guid: 039dbf8e658522c49af78c25964d1b85
+  - enabled: 1
+    path: Assets/Levels/Level3/14.unity
+    guid: 9b4c6cd9b314bda4c864f41ca5288495
+  - enabled: 1
+    path: Assets/Levels/Level4/1.unity
+    guid: 0737c2120fa617044bf8e148ec9855b5
+  - enabled: 1
+    path: Assets/Levels/Level4/2.unity
+    guid: 01c08ad92b70ccf498be00812b1306ee
+  - enabled: 1
+    path: Assets/Levels/Level4/3.unity
+    guid: 7756b021417fa1848b74dd7182b57e98
+  - enabled: 1
+    path: Assets/Levels/Level4/4.unity
+    guid: 788c4866cdf3db7438218a509a9d4cf8
+  - enabled: 1
+    path: Assets/Levels/Level4/5.unity
+    guid: 49cfd7586ce96d5469bcfe87454dbdcc
+  - enabled: 1
+    path: Assets/Levels/Level4/6.unity
+    guid: b207ee6a46a14464bb246dcc8848f251
+  - enabled: 1
+    path: Assets/Levels/Level4/7.unity
+    guid: f5662c032066c574493ae510c69aa3e8
+  - enabled: 1
+    path: Assets/Levels/Level4/8.unity
+    guid: dd8df7e24ae10a14da92f13534a81971
+  - enabled: 1
+    path: Assets/Levels/Level4/9.unity
+    guid: d275df2cb4b7d4a48a8d7ebb07ac0a58
+  - enabled: 1
+    path: Assets/Levels/Level4/10.unity
+    guid: f770d3e6df70de64caace4afdca9068b
+  - enabled: 1
+    path: Assets/Levels/Level4/11.unity
+    guid: 0972dbb1e57a5504aa1786f5bd80f16b
+  - enabled: 1
+    path: Assets/Levels/Level4/12.unity
+    guid: 666f8460f9707b84ab5cf4a70e81202e
+  - enabled: 1
+    path: Assets/Levels/Level4/13.unity
+    guid: 094377478f8c4be4abe758b16de9abdb
+  - enabled: 1
+    path: Assets/Levels/Level4/14.unity
+    guid: 8d53bbd22497b214181b91a11ae4c189
+  - enabled: 1
+    path: Assets/Levels/Level5/1.unity
+    guid: 8e730a56b66020844a4f0f31b7f5c4a4
+  - enabled: 1
+    path: Assets/Levels/Level5/2.unity
+    guid: cf0381d116bec894798c448263633898
+  - enabled: 1
+    path: Assets/Levels/Level5/3.unity
+    guid: 0b9341b18a727994a91f0ff2fbd579b7
+  - enabled: 1
+    path: Assets/Levels/Level5/4.unity
+    guid: 2cbf20dff57a54d49b90d934907da810
+  - enabled: 1
+    path: Assets/Levels/Level5/5.unity
+    guid: 25e2e80794e088549b961b6d0385f2e9
+  - enabled: 1
+    path: Assets/Levels/Level5/6.unity
+    guid: fc4c9de0f49adee439cc91533d4b1a26
+  - enabled: 1
+    path: Assets/Levels/Level5/7.unity
+    guid: dbaed66c2dbdc8a4c936af2b8ce498d9
+  - enabled: 1
+    path: Assets/Levels/Level5/8.unity
+    guid: d0914d365508d254e92d1ac36cd2bb5a
+  - enabled: 1
+    path: Assets/Levels/Level5/9.unity
+    guid: bbfd4195551dd89448ebf876af24d75e
+  - enabled: 1
+    path: Assets/Levels/Level5/10.unity
+    guid: 406f3c2bc1d86f342bb6a704eb5dee24
+  - enabled: 1
+    path: Assets/Levels/Level5/11.unity
+    guid: b84d15184942fa14cb1498e3a7e6efb6
+  - enabled: 1
+    path: Assets/Levels/Level5/12.unity
+    guid: a73e4cba67fd65544b7635b0eaad6891
+  - enabled: 1
+    path: Assets/Levels/Level5/13.unity
+    guid: 62cd546fba7d57f4e9507250acf5dc29
+  - enabled: 1
+    path: Assets/Levels/Level5/14.unity
+    guid: 6b499b2f46ec5bb49a7b6bebffd83941
+  - enabled: 1
+    path: Assets/FacebookSDK/Examples/MainMenu.unity
+    guid: 7c38a8c9adc9d5c4b869612e4033ead8
+  - enabled: 1
+    path: Assets/FacebookSDK/Examples/AccessTokenMenu.unity
+    guid: 67cb5b2387b8e4ec9b2fa69ad9510e9b
+  - enabled: 1
+    path: Assets/FacebookSDK/Examples/AppEvents.unity
+    guid: 68ab940fa15e34433bff18301686b080
+  - enabled: 1
+    path: Assets/FacebookSDK/Examples/AppInvites.unity
+    guid: 1beb7e4efae1b4e8d87bb52689540adf
+  - enabled: 1
+    path: Assets/FacebookSDK/Examples/AppLinks.unity
+    guid: 4ac12dfde6570493291366d0ab3eb20d
+  - enabled: 1
+    path: Assets/FacebookSDK/Examples/AppRequests.unity
+    guid: c2250c9c5cf00425384401321f8dffb4
+  - enabled: 1
+    path: Assets/FacebookSDK/Examples/DialogShare.unity
+    guid: 190c345841ecc464e9a122f04369757e
+  - enabled: 1
+    path: Assets/FacebookSDK/Examples/GameGroups.unity
+    guid: 7d6bb338e749741f1a68b006a0476e89
+  - enabled: 1
+    path: Assets/FacebookSDK/Examples/GraphRequest.unity
+    guid: 444ae7ddf432b457a97bfe42021075e3
+  - enabled: 1
+    path: Assets/FacebookSDK/Examples/LogView.unity
+    guid: c07ff0bf6bea74c2eb681ac0cae44265
+  - enabled: 1
+    path: Assets/FacebookSDK/Examples/Pay.unity
+    guid: 3ee189cdb21ea4bdb9d7022a0780c44c
+  - enabled: 1
+    path: Assets/end.unity
+    guid: 4a92472b5e5e3f14da70e0ebd2d72a94
